@@ -28,7 +28,7 @@ import generador_reportes as gr  # noqa: E402  (import después de ajustar sys.p
 # Datos de apoyo reutilizables por varias pruebas
 # ---------------------------------------------------------------------------
 FILAS_EJEMPLO = [
-    {"nombre": "Ana", "materia": "Matemáticas", "nota": 10.0},
+    {"nombre": "Ana", "materia": "Matemáticas", "nota": 8.0},
     {"nombre": "Ana", "materia": "Historia", "nota": 6.0},
     {"nombre": "Luis", "materia": "Matemáticas", "nota": 5.0},
     {"nombre": "Luis", "materia": "Historia", "nota": 4.0},
