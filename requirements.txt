@@ -1,0 +1,4 @@
+# Dependencias del proyecto.
+# (csv y os forman parte de la librería estándar de Python, no se instalan.)
+reportlab==4.2.2
+pytest==8.3.3

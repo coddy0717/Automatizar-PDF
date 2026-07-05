@@ -1,0 +1,24 @@
+# --- Entornos virtuales ---
+myenv/
+venv/
+env/
+.venv/
+
+# --- Cachés y bytecode de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Herramientas de pruebas ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Reportes PDF generados (salida del programa) ---
+reportes/*.pdf
+
+# --- Archivos de sistema y editores ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
